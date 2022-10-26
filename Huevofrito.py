@@ -23,4 +23,5 @@ while cocido=="no":
 if cocido== "si":
     print("Pasarlo al plato")
     print("agregarle sal y pimienta")
+    print("colocar los cubiertos")
     print("Comerlo!!")
